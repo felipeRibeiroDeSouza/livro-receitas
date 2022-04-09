@@ -45,11 +45,3 @@
 2. Acrescente o creme de leite e misture bem até obter uma consistência cremosa.
 
 3. Desligue o fogo e acrescente o açúcar.
-
-
-
-
-
-
-
-
