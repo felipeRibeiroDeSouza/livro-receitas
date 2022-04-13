@@ -1,6 +1,6 @@
 # Bolo de Chocolate :chocolate_bar:
 
-### INGREDIENTES
+### Ingredientes
 
 #### Massa:
 
@@ -28,7 +28,7 @@
 
 - 3 colheres (sopa) de açúcar
 
-### MODO DE PREPARO
+### Modo de Preparo
 
 #### Massa:
 
