@@ -46,6 +46,6 @@
 
 3. Desligue o fogo e acrescente o açúcar.
 
-[Voltar para o README](../README.md
 
-)
+
+[Voltar para o README](../README.md)
